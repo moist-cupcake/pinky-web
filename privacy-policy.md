@@ -66,7 +66,7 @@ data-processing agreement as the safeguard for that transfer.
 Aggregated statistics are kept no longer than 30 days, then
 automatically deleted. (In normal operation they are kept for around
 two weeks.) Raw per-message records are condensed within about 10
-minutes and then deleted.
+minutes and then deleted. 
 
 ## Your rights
 
