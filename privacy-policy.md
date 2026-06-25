@@ -90,4 +90,4 @@ or contact your server's bot administrator.
 ## This Page
 
 The canonical URL for page this page is
-https://moist-cupcake.github.io/pinky-web/privacy-policy/
+[https://moist-cupcake.github.io/pinky-web/privacy-policy/](https://moist-cupcake.github.io/pinky-web/privacy-policy/)
