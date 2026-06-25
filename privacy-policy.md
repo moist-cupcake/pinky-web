@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pinky Privacy Policy
+permalink: /privacy-policy/
+---
+
 # Pinky — Privacy Policy
 
 _Last updated: 2026-06-25_
